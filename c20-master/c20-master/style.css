@@ -1,0 +1,5 @@
+.header{
+  display:flex;
+  background-color: cadetblue;
+  justify-content: center;
+}
